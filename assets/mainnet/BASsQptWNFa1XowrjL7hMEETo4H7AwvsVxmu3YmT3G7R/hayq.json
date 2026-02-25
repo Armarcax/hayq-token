@@ -1,0 +1,12 @@
+{
+  "chainId": 103,
+  "address": "BASsQptWNFa1XowrjL7hMEETo4H7AwvsVxmu3YmT3G7R",
+  "symbol": "HAYQ",
+  "name": "HAYQ Armenian Web3 Token",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/USERNAME/hayq-token/main/assets/solana/BASsQptWNFa1XowrjL7hMEETo4H7AwvsVxmu3YmT3G7R/logo.png",
+  "tags": ["community"],
+  "extensions": {
+    "website": "https://hayq.live"
+  }
+}
